@@ -1,0 +1,8 @@
+carrentalsystem_final.CarsDAO&[id:IDFIELD,RegNum:STRINGFIELD,Brand:STRINGFIELD,Model:STRINGFIELD,Status:STRINGFIELD,Fees:INTFIELD]
+nextIndex:8
+ID,RegNum,Brand,Model,Status,Fees
+4`000003`perodua`alza`Available`200
+5`00004`pero`aa`Available`12
+
+6`00005`toyota`innova`Available`100
+7`000002`proton`saga`Available`50

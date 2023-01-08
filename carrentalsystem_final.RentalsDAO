@@ -1,0 +1,4 @@
+carrentalsystem_final.RentalsDAO&[id:IDFIELD,CustName:STRINGFIELD,Brand:STRINGFIELD,Model:STRINGFIELD,RegNum:STRINGFIELD,Status:STRINGFIELD,LocalTime:STRINGFIELD,Duration:INTFIELD,Fees:INTFIELD]
+nextIndex:3
+ID,Name,Brand,Model,RegNum,Status,Date,Duration,Fees
+1`owennn`perodua`bezza`000001`Booked`2022-12-23T13:14:08.131833`1`100
